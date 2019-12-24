@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+    <header>
+        <title>Nadal</title>
+        <meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+    </header>
+    <body>
+        <section class="hero is-info is-fullheight">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">
+                    Reiniciar el sistema
+                </h1>
+                <h2 class="subtitle">
+                    Si us plau introdueix el codi de reinici per reiniciar el sistema.
+                </h2>
+                <div class="field">
+                    <div class="control">
+                        <input id="codi" class="input is-rounded" type="number" placeholder="Rounded input">
+                    </div>
+                </div>
+                <div class="field">
+                    <div class="control">
+                        <button class="button is-success is-rounded" onclick="if(document.getElementById('codi').value==30) { window.location.href = 'https://andreufontb.github.io/nadal/done.html' }">Reiniciar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>
+    </body>
+</html>

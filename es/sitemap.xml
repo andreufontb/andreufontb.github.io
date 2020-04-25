@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/</loc>
+    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://andreufontb.github.io/ca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/about/</loc>
+    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/series/aboutme/</loc>
+    <lastmod>2019-05-25T23:03:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/categories/</loc>
+    <lastmod>2019-05-25T23:03:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://andreufontb.github.io/ca/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/categories/frontend/</loc>
+    <lastmod>2019-05-25T23:03:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/tags/javascript/</loc>
+    <lastmod>2019-05-25T23:03:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/series/</loc>
+    <lastmod>2019-05-25T23:03:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://andreufontb.github.io/ca/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/tags/</loc>
+    <lastmod>2019-05-25T23:03:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://andreufontb.github.io/ca/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/tags/vue/</loc>
+    <lastmod>2019-05-25T23:03:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/blog/2019-05/vue-mi-apuesta-para-aplicaciones-peque%C3%B1as/</loc>
+    <lastmod>2019-05-25T23:03:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/es/blog/</loc>
+    <lastmod>2018-09-13T22:31:21+08:00</lastmod>
+  </url>
+  
+</urlset>

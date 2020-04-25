@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://andreufontb.github.io/ca/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://andreufontb.github.io/ca/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/ca/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://andreufontb.github.io/ca/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/ca/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://andreufontb.github.io/ca/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/ca/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://andreufontb.github.io/ca/tags/"
+                />
+  </url>
+  
+</urlset>

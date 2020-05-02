@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>monitoritng on IT knowledge</title>
+    <link>https://andreufontb.github.io/en/categories/monitoritng/</link>
+    <description>Recent content in monitoritng on IT knowledge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://andreufontb.github.io/en/categories/monitoritng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Camel with elastic APM</title>
+        <link>https://andreufontb.github.io/en/blog/1-01/camel-with-elastic-apm/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://andreufontb.github.io/en/blog/1-01/camel-with-elastic-apm/</guid>
+        <description>Hi, in this post I&amp;rsquo;ll explain how to add elastic APM on apache camel application, both, with spwingboot and with camel-main</description>
+        
+        <dc:creator>Andreu</dc:creator>
+        <media:content url="https://andreufontb.github.ioimages/blog/2020-05/elastic-apm.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>elasticsearch</category>
+            
+          
+            
+              <category>apache camel</category>
+            
+          
+            
+              <category>APM</category>
+            
+          
+        
+        
+          
+            
+              <category>monitoritng</category>
+            
+          
+        
+        
+          
+            
+              <category>tutorials</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

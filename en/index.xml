@@ -12,6 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 13 Sep 2018 22:31:21 +0800</lastBuildDate>
     
         <atom:link href="https://andreufontb.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,6 +40,50 @@
         
       
 
+      
+      <item>
+        <title>Camel with elastic APM</title>
+        <link>https://andreufontb.github.io/en/blog/1-01/camel-with-elastic-apm/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://andreufontb.github.io/en/blog/1-01/camel-with-elastic-apm/</guid>
+        <description>Hi, in this post I&amp;rsquo;ll explain how to add elastic APM on apache camel application, both, with spwingboot and with camel-main</description>
+        
+        <dc:creator>Andreu</dc:creator>
+        <media:content url="https://andreufontb.github.ioimages/blog/2020-05/elastic-apm.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>elasticsearch</category>
+            
+          
+            
+              <category>apache camel</category>
+            
+          
+            
+              <category>APM</category>
+            
+          
+        
+        
+          
+            
+              <category>monitoritng</category>
+            
+          
+        
+        
+          
+            
+              <category>tutorials</category>
+            
+          
+        
+      </item>
       
 
     

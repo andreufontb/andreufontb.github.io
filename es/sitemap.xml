@@ -115,6 +115,16 @@
   <url>
     <loc>https://andreufontb.github.io/es/blog/</loc>
     <lastmod>2018-09-13T22:31:21+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/blog/"
+                />
   </url>
   
 </urlset>

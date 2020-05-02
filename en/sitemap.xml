@@ -3,6 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andreufontb.github.io/en/blog/</loc>
+    <lastmod>2018-09-13T22:31:21+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/en/</loc>
+    <lastmod>2018-09-13T22:31:21+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://andreufontb.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://andreufontb.github.io/ca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreufontb.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/en/tags/apache-camel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/en/tags/apm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/en/blog/1-01/camel-with-elastic-apm/</loc>
+  </url>
+  
+  <url>
     <loc>https://andreufontb.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -22,22 +69,11 @@
   </url>
   
   <url>
-    <loc>https://andreufontb.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://andreufontb.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://andreufontb.github.io/ca/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andreufontb.github.io/en/"
-                />
+    <loc>https://andreufontb.github.io/en/tags/elasticsearch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/en/categories/monitoritng/</loc>
   </url>
   
   <url>
@@ -76,6 +112,10 @@
                 hreflang="en"
                 href="https://andreufontb.github.io/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://andreufontb.github.io/en/series/tutorials/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<header>
+  <title>Vadym</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+</header>
+
+<body>
+  <section class="hero is-warning is-fullheight">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">Pensa una mica</h1>
+        <h2 class="subtitle">
+          I resol aquest enigme
+        </h2>
+        <p>
+          <img src="./correcto_biensituado.png" />
+        </p>
+        <div class="field">
+          <div class="control">
+            <input id="codi" class="input is-rounded" type="text" placeholder="En maúscules i sense espais">
+          </div>
+        </div>
+        <div class="field">
+          <div class="control">
+          <button class="button is-success is-rounded" onclick="if(document.getElementById('codi').value=='J1B30') { window.location.href = 'done.html' } else { alert ('Nope!\nPensa una mica més, si no sempre pots mirar de fer trampes i dir que va ser molt fàcil') }">Continuar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+
+</html>
